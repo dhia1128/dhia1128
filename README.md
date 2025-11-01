@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Programming languages frameworks and technologies i coded with </h2>
 
 ###
 
