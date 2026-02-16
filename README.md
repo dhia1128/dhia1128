@@ -25,9 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
 
-<h2 align="left">Programming Languages & Technologies</h2>
 
 ---
 
