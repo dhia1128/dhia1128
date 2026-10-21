@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **engineering student** passionate about turning data into impact
+- 🎓 Final-year **master student at Université paris dauphine psl ** passionate about turning data into impact
 - 🔬 Focused on **Data Science**, **Machine Learning**, and **MLOps** (Machine Learning Operations)
 - ✨ Creating bugs since 2023… and hopefully fewer of them every day 😅
 - 📚 Currently leveling up in end-to-end ML pipelines, model deployment & automation
