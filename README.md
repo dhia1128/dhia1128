@@ -30,11 +30,14 @@
 
 <div align="left">
 
-**💻 Programming & Databases**<br>
+**💻 Programming Languages**<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" title="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" title="C"/>
+<br><br>
+
+**🗄️ Databases**<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" title="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="Oracle" title="Oracle"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="SQLite" title="SQLite"/>
@@ -89,7 +92,7 @@
 - **[MLOps Mini-Framework](https://github.com/YOUR_USERNAME/mlops-template)** — Template for reproducible ML experiments
 - **[Sentiment Analysis Dashboard](https://github.com/YOUR_USERNAME/sentiment-streamlit)** — Real-time dashboard with model monitoring
 
-→ Check out all my repositories [here](https://github.com/YOUR_USERNAME?tab=repositories)
+→ Check out all my repositories [here](https://github.com/dhia1128?tab=repositories)
 
 ---
 
