@@ -1,12 +1,13 @@
 <div align="center">
   <h1>Hey 👋 What's up?</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=I'm+Dhia+Arfaoui;Final-year+Engineering+Student;Data+Science+%26+MLOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=I'm+Dhia+Arfaoui;Final-year+Engineering+Student;Data+Science+%26+MLOps+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br>
 
 <p align="center">
+  <a href="https://dhia-edinne-arfaoui.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/dhia-edinne-arfaoui55/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dhiaarfaoui32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <!-- Add more links: GitHub, Twitter/X, personal website, etc. -->
@@ -16,8 +17,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **Master Student**, at,Université Paris Dauphine PSL  passionate about turning data into impact
+- 🎓 Final-year **Master Student** at Université Paris Dauphine PSL, passionate about turning data into impact
 - 🔬 Focused on **Data Science**, **Machine Learning**, and **MLOps** (Machine Learning Operations)
+- 🌐 Check out my **portfolio**: [dhia-edinne-arfaoui.vercel.app](https://dhia-edinne-arfaoui.vercel.app/)
 - ✨ Creating bugs since 2023… and hopefully fewer of them every day 😅
 - 📚 Currently leveling up in end-to-end ML pipelines, model deployment & automation
 
@@ -59,6 +61,7 @@
 
 Feel free to reach out if you're working on cool data/ML projects, want to collaborate, or just want to chat about MLOps 😄
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhia-edinne-arfaoui.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhia-edinne-arfaoui55/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhiaarfaoui32@gmail.com)
 
