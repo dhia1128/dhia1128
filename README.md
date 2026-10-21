@@ -10,7 +10,6 @@
   <a href="https://dhia-edinne-arfaoui.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/dhia-edinne-arfaoui55/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dhiaarfaoui32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <!-- Add more links: GitHub, Twitter/X, personal website, etc. -->
 </p>
 
 ---
@@ -27,7 +26,48 @@
 
 ---
 
+### 🛠️ Tech Stack & Tools
 
+<div align="left">
+
+**💻 Programming & Databases**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="Oracle" title="Oracle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="SQLite" title="SQLite"/>
+<br><br>
+
+**🤖 Machine Learning, Deep Learning & AI**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="TensorFlow" title="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" alt="PyTorch" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="35" alt="Keras" title="Keras"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="35" alt="Scikit-Learn" title="Scikit-Learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="Pandas" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="Numpy" title="Numpy"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="35" alt="Hugging Face" title="Hugging Face"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="35" alt="LangChain" title="LangChain"/>
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="35" alt="Ollama" title="Ollama"/>
+<br><br>
+
+**☁️ Data Engineering, Web & DevOps**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="35" alt="Spark" title="Spark"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="35" alt="Hadoop" title="Hadoop"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="GCP" title="Google Cloud Platform"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="FastAPI" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="Flask" title="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring Boot" title="Spring Boot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="35" alt="Streamlit" title="Streamlit"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" title="GitHub"/>
+
+</div>
+
+<br>
 
 ---
 
@@ -38,10 +78,6 @@
 - Containerization & orchestration (Docker → Kubernetes basics)
 - Model monitoring & drift detection
 - CI/CD for machine learning projects
-
----
-
-
 
 ---
 
@@ -66,34 +102,3 @@ Feel free to reach out if you're working on cool data/ML projects, want to colla
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhiaarfaoui32@gmail.com)
 
 Happy coding! 🚀
-<div align="left">
-<!-- Langages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"      height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"          height="40" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"                height="40" alt="C"/>
-
-<!-- Frameworks -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"     height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"     height="40" alt="Flask"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"   height="40" alt="Spring"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-
-<!-- Bases de données -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"         height="40" alt="Oracle"/>
-
-<!-- Outils -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"   height="40" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"     height="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/>
-  
-
-
-</div>
-
-###
